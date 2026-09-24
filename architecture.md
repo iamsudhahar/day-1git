@@ -4,7 +4,7 @@ created: 2026-08-31
 updated: 2026-08-31
 ---
 
-# Identity & Profile Architecture
+**# Identity & Profile Architecture
 
 **FINAL — this is the approved version, revised in place by Step 6 (Architecture Review) against the draft Step 5 produced.** Guidelines-level architecture for a future implementable module ("Module 1: Identity & Access Service"). This is the file that module needs to read — data model, API contract shape, profile-switcher contract, billing hook, and the invariants a builder must not violate. It does **not** contain an OpenAPI spec, database migrations, epics, or stories — those are Module 1's own, later, separate Spec Track.
 
